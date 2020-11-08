@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ShowXmlQuestions.xsl"?>
+<assessmentItems>
+	<assessmentItem subject="Web" author="jvadillo001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Tag HTML para añadir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				FORM
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> OBJECT </response>
+			<response> TABLE </response>
+			<response> DIV </response>
+		</incorrectResponses>
+	</assessmentItem>
+		<assessmentItem subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabará funcionando
+			incluso entre dos latas unidas por un cordón</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				TCP/IP
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> HTTP </response>
+			<response> SMTP </response>
+			<response> Ninguna es correcta </response>
+		</incorrectResponses>
+	</assessmentItem>
+<assesstmentItem subject="5" author="j019@ikasle.ehu.eus"><itemBody><p>7696966969696969696969669696969966969</p></itemBody><correctResponse><response>1</response></correctResponse><incorrectResponses><response>2</response><response>33</response><response>4</response></incorrectResponses></assesstmentItem><assessmentItem subject="5" author="j019@ikasle.ehu.eus"><itemBody><p>7696966969696969696969669696969966969</p></itemBody><correctResponse><response>1</response></correctResponse><incorrectResponses><response>2</response><response>33</response><response>4</response></incorrectResponses></assessmentItem></assessmentItems>
