@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ShowXmlQuestions.xsl"?>
+<assessmentItems>
+	<assessmentItem subject="Web" author="jvadillo001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Tag HTML para añadir un formulario</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				FORM
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> OBJECT </response>
+			<response> TABLE </response>
+			<response> DIV </response>
+		</incorrectResponses>
+	</assessmentItem>
+		<assessmentItem subject="Internet" author="rarruabarrena001@ikasle.ehu.eus">
+		<itemBody>
+			<p>Este protocolo acabará funcionando
+			incluso entre dos latas unidas por un cordón</p>
+		</itemBody>
+		<correctResponse>
+			<response>
+				TCP/IP
+			</response>
+		</correctResponse>
+		<incorrectResponses>
+			<response> HTTP </response>
+			<response> SMTP </response>
+			<response> Ninguna es correcta </response>
+		</incorrectResponses>
+	</assessmentItem>
+<assessmentItem subject="fghhhhhh" author="pepe@ehu.es"><itemBody><p>fghhhhhhhhhhhhhhhhh</p></itemBody><correctResponse><response>hhhhhhhhhhhhhh</response></correctResponse><incorrectResponses><response>hhhhhhhhhhhhhhhhhhhhhhhhhhhhh</response><response>hhhhhhhhhhhhhhhhh</response><response>hhhhhhhhhhhhh</response></incorrectResponses></assessmentItem><assessmentItem subject="afdfdf" author="pepe@ehu.es"><itemBody><p>afdadddddddddddddddddd</p></itemBody><correctResponse><response>dddddddddddddddd</response></correctResponse><incorrectResponses><response>dddddddddddddd</response><response>dddddddddddddd</response><response>dddddddddd</response></incorrectResponses></assessmentItem><assessmentItem subject="5" author="a019@ikasle.ehu.eus"><itemBody><p>Patataaaaaaaaaaaaaaa</p></itemBody><correctResponse><response>1</response></correctResponse><incorrectResponses><response>2</response><response>3</response><response>4</response></incorrectResponses></assessmentItem><assessmentItem subject="sdfffffffff" author="pepe@ehu.es"><itemBody><p>dsffffffffff</p></itemBody><correctResponse><response>fffffffffffffffffffff</response></correctResponse><incorrectResponses><response>ffffffffffffff</response><response>fffffffffffffffffff</response><response>fffffffffffff</response></incorrectResponses></assessmentItem><assessmentItem subject="xcvxcv" author="pepe@ehu.es"><itemBody><p>vxcvxcvxcvxcvcxvxcvxc</p></itemBody><correctResponse><response>vxcv</response></correctResponse><incorrectResponses><response>cxvcxv</response><response>xcvcxv</response><response>cxv</response></incorrectResponses></assessmentItem><assessmentItem subject="4" author="jorge019@ikasle.ehu.eus"><itemBody><p>Patataaaaaaaaaaaaaaa</p></itemBody><correctResponse><response>1</response></correctResponse><incorrectResponses><response>1</response><response>2</response><response>4</response></incorrectResponses></assessmentItem><assessmentItem subject="5" author="jorge019@ikasle.ehu.eus"><itemBody><p>Patataaaaaaaaaaaaaaa</p></itemBody><correctResponse><response>1</response></correctResponse><incorrectResponses><response>2</response><response>3</response><response>4</response></incorrectResponses></assessmentItem><assessmentItem subject="aaa" author="vadillo@ehu.es"><itemBody><p>aaaaaaaaaaaaaaaaaaaa</p></itemBody><correctResponse><response>aaa</response></correctResponse><incorrectResponses><response>aaa</response><response>aaa</response><response>aaa</response></incorrectResponses></assessmentItem><assessmentItem subject="5" author="jorge019@ikasle.ehu.eus"><itemBody><p>Patataaaaaaaaaaaaaaa</p></itemBody><correctResponse><response>1</response></correctResponse><incorrectResponses><response>2</response><response>3</response><response>4</response></incorrectResponses></assessmentItem><assessmentItem subject="gvhbj" author="jiglesias019@ikasle.ehu.eus"><itemBody><p>dfghjklñfdfdfdfg</p></itemBody><correctResponse><response>fghjk</response></correctResponse><incorrectResponses><response>vgh</response><response>jgv</response><response>h</response></incorrectResponses></assessmentItem><assessmentItem subject="gh" author="jiglesias019@ikasle.ehu.eus"><itemBody><p>dtfyguhijokplokijkhgf</p></itemBody><correctResponse><response>fytgu</response></correctResponse><incorrectResponses><response>gy</response><response>gy</response><response>dsfghj</response></incorrectResponses></assessmentItem><assessmentItem subject="5" author="jiglesias019@ikasle.ehu.eus"><itemBody><p>Patataaaaaaaaaaaaaaa</p></itemBody><correctResponse><response>1</response></correctResponse><incorrectResponses><response>2</response><response>3</response><response>4</response></incorrectResponses></assessmentItem><assessmentItem subject="3" author="jorge019@ikasle.ehu.eus"><itemBody><p>Patataaaaaaaaaaaaaaa</p></itemBody><correctResponse><response>1</response></correctResponse><incorrectResponses><response>2</response><response>2</response><response>2</response></incorrectResponses></assessmentItem><assessmentItem subject="sfsdf" author="pepe@ehu.es"><itemBody><p>ssadsfsdfsdfsdfsd</p></itemBody><correctResponse><response>dsfsdfsd</response></correctResponse><incorrectResponses><response>fsdfsd</response><response>sdfsdfsdf</response><response>sdfsdfsd</response></incorrectResponses></assessmentItem><assessmentItem subject="sdfdsfs" author="pepe@ehu.es"><itemBody><p>dfsdfsdfsdfsdfsd</p></itemBody><correctResponse><response>fsdfsdf</response></correctResponse><incorrectResponses><response>sddsfsdf</response><response>sdfdsfsd</response><response>fsdf</response></incorrectResponses></assessmentItem><assessmentItem subject="zxczxcz" author="pepe@ehu.es"><itemBody><p>zzxczxczxcz</p></itemBody><correctResponse><response>xczxczxc</response></correctResponse><incorrectResponses><response>zxczxc</response><response>zxczx</response><response>czxczxczx</response></incorrectResponses></assessmentItem></assessmentItems>
