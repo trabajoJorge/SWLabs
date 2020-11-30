@@ -1,0 +1,3 @@
+function limpiarF(){
+    $('#mensaje').html("");
+}
